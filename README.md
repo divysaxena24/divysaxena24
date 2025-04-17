@@ -54,3 +54,7 @@ A phishing detection website using a URL analyzer, risk meter, and cybersecurity
 ---
 
 ⭐ *"Keep building, keep growing, and never stop learning!"*
+
+![Divya's GitHub Stats](https://github-readme-stats.vercel.app/api?username=divysaxena24&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=divysaxena24&layout=compact&theme=radical)
+
