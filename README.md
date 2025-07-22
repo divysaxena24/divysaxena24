@@ -2,7 +2,7 @@
 
 🎓 Second-Year B.Tech CSE Student at SRM University AP (Batch of 2028)  
 👩‍💻 Aspiring Software Developer | Full-Stack Web Dev Enthusiast | AI/ML Explorer  
-🧠 Contributor at OSCI(Open Source Connect India)
+🧠 Contributor at OSCI(Open Source Connect India) <br/>
 🌐 Campus Ambassador at Zuno Found It
 
 ---
