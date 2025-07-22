@@ -1,7 +1,8 @@
 # 👋 Hi there, I'm Divya Saxena!
 
-🎓 First-Year B.Tech CSE Student at SRM University AP (Batch of 2028)  
+🎓 Second-Year B.Tech CSE Student at SRM University AP (Batch of 2028)  
 👩‍💻 Aspiring Software Developer | Full-Stack Web Dev Enthusiast | AI/ML Explorer  
+🧠 Contributor at OSCI(Open Source Connect India)
 🌐 Campus Ambassador at Zuno Found It
 
 ---
