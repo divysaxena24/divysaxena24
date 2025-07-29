@@ -5,6 +5,25 @@
 🧠 Contributor at OSCI(Open Source Connect India) <br/>
 🌐 Campus Ambassador at Zuno Found It
 
+
+## 🌐 Connect With Me
+
+<p align="left">
+  <a href="mailto:divysaxena2402@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://www.linkedin.com/in/divyasaxena24">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://www.codechef.com/users/coder_805">
+    <img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white" alt="CodeChef" />
+  </a>
+  <a href="https://leetcode.com/u/divya_2402/">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" />
+  </a>
+</p>
+
+
 ---
 
 ## 🚀 About Me
