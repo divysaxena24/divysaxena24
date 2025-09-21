@@ -54,8 +54,8 @@ A platform to help people convey their thoughts effectively. *(In progress)*
 ### 🧭 EchoMind
 A smart desktop assistant built using Python that helps automate tasks and respond to voice commands. *(Advanced Desktop Assistant Project)*
 
-### 🛡️ PhishShield
-A phishing detection website using a URL analyzer, risk meter, and cybersecurity insights. *(Frontend Developer)*
+### 🛡️ HeartRoofers
+HeartRoofers is a web-based platform that helps users find and explore hostels easily. It allows users to browse options, check availability, and read reviews seamlessly.
 
 ---
 
