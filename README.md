@@ -55,8 +55,20 @@ My goal is to crack **top-tier internships (FAANG / FinTech)** through impactful
 ## 🧰 Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,tailwind,react,nodejs,express,mongodb,mysql,python,java,c&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=java,js,python,html,css,bootstrap,react,nodejs,express,vercel,github,git,vscode,mysql,mongodb,postgresql,nextjs&theme=dark" />
 </p>
+
+### 💻 Programming Languages
+**Java (DSA)**, **JavaScript**, **Python**, **HTML**, **CSS**
+
+### 📚 Libraries / Frameworks
+**Bootstrap**, **React**, **Node.js**, **Express.js**, **EJS**, **MERN Stack**, **Next.js**
+
+### 🛠️ Tools / Platforms
+**Git**, **VS Code**, **GitHub**, **Vercel**, **Render**
+
+### 🗄️ Databases
+**MySQL**, **MongoDB**, **Supabase (PostgreSQL)**
 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/74038190/216656982-21bdf56f-7d91-4b39-97c4-bf9d6f64db84.gif" width="80" />
@@ -112,14 +124,6 @@ My goal is to crack **top-tier internships (FAANG / FinTech)** through impactful
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=divysaxena24&bg_color=0d1117&color=00C9FF&line=7F00FF&point=00C9FF&area=true&hide_border=true" />
-</p>
-
----
-
-## 🐍 Contribution Snake Animation
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/divysaxena24/divysaxena24/output/github-contribution-grid-snake.svg" />
 </p>
 
 ---
