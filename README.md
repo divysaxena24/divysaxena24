@@ -1,15 +1,16 @@
-# 👋 Hi there, I'm Divya Saxena!
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7F00FF,100:00C9FF&height=200&section=header&text=Divya%20Saxena&fontSize=50&fontAlignY=35&animation=fadeIn" />
+</p>
 
-🎓 Second-Year B.Tech CSE Student at **SRM University AP** (Batch of 2028)  
-👨‍💻 Aspiring **Software Developer** | **Full-Stack Web Developer** | AI & System Design Enthusiast  
-🌐 **Campus Ambassador at Zuno Found It**  
-🧠 **Open Source Contributor at OSCI (Open Source Connect India) & GSSoC (GirlScript Summer of Code)**  
+<h3 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=00C9FF&center=true&vCenter=true&width=600&lines=Second-Year+B.Tech+CSE+Student;Aspiring+Software+Developer;Full-Stack+Web+Developer;Open+Source+Contributor+%7C+GSSoC+%26+OSCI;Campus+Ambassador+at+Zuno+Found+It" />
+</h3>
 
 ---
 
 ## 🌐 Connect With Me
 
-<p align="left">
+<p align="center">
   <a href="mailto:divysaxena2402@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
@@ -31,19 +32,27 @@
 
 ## 🚀 About Me
 
-I'm a motivated and disciplined Computer Science student focused on building **real-world, scalable applications** and strengthening my foundations in **DSA, System Design, and Backend Development**.  
-I aim to crack top-tier internships (FAANG / FinTech) through **strong projects, open-source contributions, and consistent problem-solving**.
+🎓 **Second-Year B.Tech CSE Student at SRM University AP (Batch of 2028)**  
+👨‍💻 **Aspiring Software Developer | Full-Stack Web Developer | AI & System Design Enthusiast**  
+🌐 **Campus Ambassador at Zuno Found It**  
+🧠 **Open Source Contributor at OSCI & GSSoC**
 
-- 🔧 **Tech Stack:** HTML, CSS, JavaScript, Bootstrap, Tailwind, React.js, Node.js, Express.js, EJS  
-- 💾 **Databases:** MongoDB, MySQL, SQL  
-- 🧠 **Languages:** Java (DSA), Python, JavaScript, C  
-- 🔍 **Interests:** System Design, Full-Stack Development, AI-driven Applications  
+I’m a disciplined and growth-driven Computer Science student focused on building **real-world, scalable applications** and strengthening my foundations in **DSA, System Design, and Backend Development**.  
+My goal is to crack **top-tier internships (FAANG / FinTech)** through impactful projects, open-source work, and consistent problem-solving.
+
+---
+
+## 🧰 Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,tailwind,react,nodejs,express,mongodb,mysql,python,java,c" />
+</p>
 
 ---
 
 ## 🌱 Currently Learning
 
-- 📊 **Advanced Data Structures & Algorithms** (Java + Python)
+- 📊 **Advanced Data Structures & Algorithms (Java + Python)**
 - 🗄️ **DBMS, Operating Systems, OOPS**
 - 🌐 **Scalable Web Applications**
 - 🤖 **Applied AI in Web Products**
@@ -53,43 +62,43 @@ I aim to crack top-tier internships (FAANG / FinTech) through **strong projects,
 ## 🛠️ Featured Projects
 
 ### 💰 AI Price Tracker (Chrome Extension)
-Tracks product prices across platforms and notifies users about price drops using automation and scraping logic.
+🚀 Tracks product prices across platforms and notifies users about price drops using automation and scraping.
 
 **Tech:** JavaScript, Chrome APIs, Node.js, Web Scraping
 
 ---
 
 ### 🛡️ HeartRoofers
-A hostel discovery platform allowing users to browse listings, check availability, and read reviews.
+🏠 A hostel discovery platform for browsing listings, checking availability, and reading reviews.
 
 **Tech:** MERN Stack (MongoDB, Express, React, Node.js)
 
 ---
 
 ### 🧠 MINDSHARE
-A web platform that enables users to express, share, and organize their thoughts effectively, promoting meaningful communication and idea exchange.
+💡 A platform that enables users to express, share, and organize ideas effectively.
 
-**Tech:** Full-Stack Web (React, Node.js, Express, MongoDB)
+**Tech:** React, Node.js, Express, MongoDB
 
 ---
 
 ## 🌍 Open Source Experience
 
-### 🌸 GirlScript Summer of Code (GSSoC) — *Open Source Contributor*  
+### 🌸 GirlScript Summer of Code (GSSoC) — *Contributor*
 - Selected contributor for a nationwide open-source program  
-- Worked on multiple projects by resolving issues, implementing features, and improving code quality  
-- Collaborated with maintainers and developers, following industry-standard Git workflows  
+- Resolved issues, implemented features, and improved code quality  
+- Collaborated with maintainers using GitHub workflows  
 
-### 🔓 Open Source Connect India (OSCI) — *Contributor*  
-- Contributed to multiple repositories by fixing bugs, adding features, and improving documentation  
-- Worked with Git, GitHub workflows, pull requests, and open-source best practices  
+### 🔓 Open Source Connect India (OSCI) — *Contributor*
+- Contributed across repositories by fixing bugs and enhancing features  
+- Followed open-source best practices using Git & GitHub  
 
 ---
 
 ## 📌 Fun Facts
 
 - ☕ Tea keeps my code running  
-- 🏸 I love playing badminton and table Tennis 
+- 🏸 I love badminton and table tennis  
 - 🎤 Singing is my stress-buster  
 
 ---
@@ -101,7 +110,7 @@ A web platform that enables users to express, share, and organize their thoughts
 
 ---
 
-⭐ *“Keep building, keep improving, and never stop learning.”*
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C9FF,100:7F00FF&height=120&section=footer"/>
+</p>
 
-![Divya's GitHub Stats](https://github-readme-stats.vercel.app/api?username=divysaxena24&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=divysaxena24&layout=compact&theme=radical)
