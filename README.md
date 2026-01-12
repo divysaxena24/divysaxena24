@@ -1,80 +1,108 @@
 # 👋 Hi there, I'm Divya Saxena!
 
-🎓 Second-Year B.Tech CSE Student at SRM University AP (Batch of 2028)  
-👩‍💻 Aspiring Software Developer | Full-Stack Web Dev Enthusiast | AI/ML Explorer  
-🧠 Contributor at OSCI(Open Source Connect India) <br/>
-🌐 Campus Ambassador at Zuno Found It
+🎓 Second-Year B.Tech CSE Student at **SRM University AP** (Batch of 2028)  
+👨‍💻 Aspiring **Software Developer** | **Full-Stack Web Developer** | AI & System Design Enthusiast  
+🌐 **Campus Ambassador at Zuno Found It**  
+🧠 **Open Source Contributor at OSCI (Open Source Connect India)**  
 
+---
 
 ## 🌐 Connect With Me
 
 <p align="left">
   <a href="mailto:divysaxena2402@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://www.linkedin.com/in/divyasaxena24">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://www.codechef.com/users/coder_805">
-    <img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white" alt="CodeChef" />
+    <img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white" />
   </a>
   <a href="https://leetcode.com/u/divya_2402/">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" />
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
+  </a>
+  <a href="https://github.com/divysaxena24">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
-
 
 ---
 
 ## 🚀 About Me
 
-I'm a passionate and curious learner who loves building impactful tech projects and exploring new domains in computer science. I enjoy crafting clean, responsive web applications and I'm currently diving deeper into DSA, AI/ML, and system design.
+I'm a motivated and disciplined Computer Science student focused on building **real-world, scalable applications** and strengthening my foundations in **DSA, System Design, and Backend Development**.  
+I aim to crack top-tier internships (FAANG / FinTech) through **strong projects, open-source contributions, and consistent problem-solving**.
 
-- 🔧 Tech Stack: **HTML, CSS, JavaScript, Bootstrap, Tailwind, React.js, Node.js, Express.js, EJS**
-- 💾 Databases: **MongoDB, SQL**
-- 🧠 Languages: **Python, C, JavaScript, Java**
-- 🔍 Interests: **Artificial Intelligence, Machine Learning, System Design**
+- 🔧 **Tech Stack:** HTML, CSS, JavaScript, Bootstrap, Tailwind, React.js, Node.js, Express.js, EJS  
+- 💾 **Databases:** MongoDB, MySQL, SQL  
+- 🧠 **Languages:** Java (DSA), Python, JavaScript, C  
+- 🔍 **Interests:** System Design, Full-Stack Development, AI-driven Applications  
 
 ---
 
 ## 🌱 Currently Learning
 
-- Advanced Data Structures & Algorithms (Java + Python)
-- DBMS, OS, and OOP Concepts
-- Competitive Programming & System Design
-- AI/ML fundamentals with real-world applications
+- 📊 **Advanced Data Structures & Algorithms** (Java + Python)
+- 🗄️ **DBMS, Operating Systems, OOPS**
+- ⚙️ **System Design (LLD + HLD)**
+- 🌐 **Scalable Web Applications**
+- 🤖 **Applied AI in Web Products**
 
 ---
 
-## 🛠️ Projects
+## 🛠️ Featured Projects
 
-### 🧠 MINDSHARE
-A platform to help people convey their thoughts effectively. *(In progress)*
+### 💰 AI Price Tracker (Chrome Extension)
+Tracks product prices across platforms and notifies users about price drops using automation and scraping logic.
 
-### 🧭 EchoMind
-A smart desktop assistant built using Python that helps automate tasks and respond to voice commands. *(Advanced Desktop Assistant Project)*
+**Tech:** JavaScript, Chrome APIs, Node.js, Web Scraping
+
+---
 
 ### 🛡️ HeartRoofers
-HeartRoofers is a web-based platform that helps users find and explore hostels easily. It allows users to browse options, check availability, and read reviews seamlessly.
+A hostel discovery platform allowing users to browse listings, check availability, and read reviews.
+
+**Tech:** MERN Stack (MongoDB, Express, React, Node.js)
+
+---
+
+### 🧠 MINDSHARE
+A web platform that enables users to express, share, and organize their thoughts effectively, promoting meaningful communication and idea exchange.
+
+**Tech:** Full-Stack Web (React, Node.js, Express, MongoDB)
+
+---
+
+## 🌍 Open Source Experience
+
+### 🌸 GirlScript Summer of Code (GSSoC) — *Open Source Contributor*  
+- Selected contributor for a nationwide open-source program  
+- Worked on multiple projects by resolving issues, implementing features, and improving code quality  
+- Collaborated with maintainers and developers, following industry-standard Git workflows  
+
+### 🔓 Open Source Connect India (OSCI) — *Contributor*  
+- Contributed to multiple repositories by fixing bugs, adding features, and improving documentation  
+- Worked with Git, GitHub workflows, pull requests, and open-source best practices  
 
 ---
 
 ## 📌 Fun Facts
 
-- ☕ Tea is my fuel  
-- 🏸 I love playing badminton and football  
-- 🎤 Singing is my happy place  
+- ☕ Tea keeps my code running  
+- 🏸 I love playing badminton and table Tennis 
+- 🎤 Singing is my stress-buster  
 
 ---
 
-## 📫 Let's Connect!
+## 📫 Let’s Connect
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/your-profile)  
+- 💼 **LinkedIn:** [linkedin.com/in/divyasaxena24](https://www.linkedin.com/in/divyasaxena24)  
+- 📧 **Email:** divysaxena2402@gmail.com  
 
 ---
 
-⭐ *"Keep building, keep growing, and never stop learning!"*
+⭐ *“Keep building, keep improving, and never stop learning.”*
 
 ![Divya's GitHub Stats](https://github-readme-stats.vercel.app/api?username=divysaxena24&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=divysaxena24&layout=compact&theme=radical)
-
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=divysaxena24&layout=compact&theme=radical)
