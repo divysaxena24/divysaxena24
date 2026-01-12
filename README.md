@@ -3,7 +3,7 @@
 🎓 Second-Year B.Tech CSE Student at **SRM University AP** (Batch of 2028)  
 👨‍💻 Aspiring **Software Developer** | **Full-Stack Web Developer** | AI & System Design Enthusiast  
 🌐 **Campus Ambassador at Zuno Found It**  
-🧠 **Open Source Contributor at OSCI (Open Source Connect India)**  
+🧠 **Open Source Contributor at OSCI (Open Source Connect India) & GSSoC (GirlScript Summer of Code)**  
 
 ---
 
@@ -45,7 +45,6 @@ I aim to crack top-tier internships (FAANG / FinTech) through **strong projects,
 
 - 📊 **Advanced Data Structures & Algorithms** (Java + Python)
 - 🗄️ **DBMS, Operating Systems, OOPS**
-- ⚙️ **System Design (LLD + HLD)**
 - 🌐 **Scalable Web Applications**
 - 🤖 **Applied AI in Web Products**
 
