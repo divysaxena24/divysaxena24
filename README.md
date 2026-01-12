@@ -12,12 +12,6 @@
 
 ---
 
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212259363-92d8b9f5-9dc4-4f52-9a0c-b79b94a2b1c4.gif" width="80" />
-</p>
-
----
-
 ## 🌐 Connect With Me
 
 <p align="center">
