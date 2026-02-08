@@ -104,7 +104,7 @@ My goal is to crack **top-tier internships (FAANG / FinTech)** through impactful
 
 ## 🌍 Open Source Experience
 
-### 🌸 GirlScript Summer of Code (GSSoC) — *Contributor*
+### 🌐 GirlScript Summer of Code (GSSoC) — *Contributor*
 - Resolved issues, implemented features, and improved code quality  
 - Collaborated with maintainers using GitHub workflows  
 
