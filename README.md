@@ -36,20 +36,20 @@
 
 ## 🚀 About Me
 
-🎓 **Second-Year B.Tech CSE Student at SRM University AP (Batch of 2028)**  
-👨‍💻 **Aspiring Software Developer | Full-Stack Web Developer | AI & System Design Enthusiast**  
+🎓 **B.Tech CSE Student at SRM University AP (2024 - 2028)** | **CGPA: 9.4**  
+👨‍💻 **AI Automation & Web Development Intern at PIVOT**  
 🌐 **Campus Ambassador at Zuno Found It**  
-🧠 **Open Source Contributor at OSCI & GSSoC**
+🧠 **Open Source Contributor at GSSoC & OSCI**
 
 I’m a focused Computer Science student building **real-world scalable applications** and strengthening my foundations in **DSA, System Design, and Backend Development**.  
-My goal is to crack **top-tier internships (FAANG / FinTech)** through impactful projects and open-source work.
+My goal is to leverage AI and Full-Stack expertise to solve complex problems and contribute to high-impact engineering teams.
 
 ---
 
 ## 🧰 Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,js,python,html,css,bootstrap,react,nodejs,express,vercel,github,git,vscode,mysql,mongodb,postgresql,nextjs&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=java,js,ts,python,html,css,tailwind,react,nextjs,nodejs,express,mongodb,postgres,mysql,aws,git,github,vercel,vscode&theme=dark" />
 </p>
 
 ### 💻 Programming Languages
@@ -81,36 +81,49 @@ My goal is to crack **top-tier internships (FAANG / FinTech)** through impactful
 
 ## 🛠️ Featured Projects
 
-### 💰 AI Price Tracker (Chrome Extension)
-🚀 Tracks product prices and notifies users on price drops using automation.
+### 🚀 Mentorix - AI Career Growth Platform
+💡 Full-stack platform featuring resume analysis using Groq LPU, secure auth with Clerk, and async workflows with Inngest.
 
-**Tech:** JavaScript, Chrome APIs, Node.js, Web Scraping  
-
----
-
-### 🛡️ HeartRoofers
-🏠 Hostel discovery platform with browsing, availability, and reviews.
-
-**Tech:** MERN Stack (MongoDB, Express, React, Node.js)  
+**Tech:** Next.js, TypeScript, Neon PostgreSQL, Drizzle ORM, Clerk, Inngest, Groq LPU
 
 ---
 
-### 🧠 MINDSHARE
-💡 A platform to express, share, and organize ideas effectively.
+### 💰 Trackify - AI Price Monitoring System
+🚀 Automated price tracking and notification system with a Chrome Extension for one-click product tracking.
 
-**Tech:** React, Node.js, Express, MongoDB  
+**Tech:** Next.js, Firecrawl, Node.js, Web Scraping, Cron Jobs, Chrome APIs
+
+---
+
+### 🛡️ HeartRoofers - Rental Marketplace
+🏠 Hostel discovery platform with advanced search, secure 15+ REST API endpoints, and Cloudinary integration.
+
+**Tech:** Node.js, Express.js, MongoDB, Cloudinary, Joi, Passport.js
 
 ---
 
 ## 🌍 Open Source Experience
 
-### 🌐 GirlScript Summer of Code (GSSoC) — *Contributor*
-- Resolved issues, implemented features, and improved code quality  
-- Collaborated with maintainers using GitHub workflows  
+### 🤖 PIVOT — *AI Automation & Web Development Intern* (Feb 2026 - Present)
+- Developing scalable automation systems using JavaScript and REST APIs.
+- Optimized workflows reducing manual time by 40% through automation pipelines.
 
-### 🔓 Open Source Connect India (OSCI) — *Contributor*
-- Fixed bugs, enhanced features, and improved documentation  
-- Followed open-source best practices  
+### 🌐 GirlScript Summer of Code & OSCI — *Open Source Contributor*
+- Contributed to **5+ project repos** with **18+ merged PRs** out of 45+ submissions.
+- Improved features, performance, and overall code quality in distributed team environments.
+
+---
+
+## 📈 GitHub Stats & Contribution Snake
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=divysaxena24&show_icons=true&theme=tokyonight" height="180em" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=divysaxena24&layout=compact&theme=tokyonight" height="180em" />
+</p>
+
+<p align="center">
+  <img src="https://github-user-contributions-snake.vercel.app/api?username=divysaxena24&color_empty=%230d1117&color_dot=%2300C9FF&color_active=%237F00FF&theme=dark" />
+</p>
 
 ---
 
@@ -122,11 +135,26 @@ My goal is to crack **top-tier internships (FAANG / FinTech)** through impactful
 
 ---
 
+## 🏆 Honors & Awards
+
+- 🏆 **Hacknovate 6.0 National Hackathon** - Ranked Top 45 among 180+ teams.
+- 💡 **Smart India Hackathon 2025** - Top 45 finalist out of 600+ teams.
+- 🚀 **Reckon 7.0 Hackathon** - Runner-Up in the Simpli AI track.
+- 👨‍💻 **LeetCode** - Solved 225+ problems covering DSA fundamentals. [(Profile)](https://leetcode.com/u/divya_2402/)
+
+<p align="center">
+  <a href="https://leetcode.com/u/divya_2402/">
+    <img src="https://leetcode-stats-six.vercel.app/api?username=divya_2402&theme=dark" />
+  </a>
+</p>
+
+---
+
 ## 📌 Fun Facts
 
-- ☕ Tea keeps my code running  
-- 🏸 I love badminton and table tennis  
-- 🎤 Singing is my stress-buster  
+- ☕ Tea keeps my code running
+- 🏸 I love badminton and table tennis
+- 🎤 Singing is my stress-buster
 
 ---
 
