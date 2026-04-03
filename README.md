@@ -102,7 +102,7 @@ My goal is to leverage AI and Full-Stack expertise to solve complex problems and
 
 ---
 
-## 🌍 Open Source Experience
+## 🌍 Experience
 
 ### 🤖 PIVOT — *AI Automation & Web Development Intern* (Feb 2026 - Present)
 - Developing scalable automation systems using JavaScript and REST APIs.
@@ -114,14 +114,6 @@ My goal is to leverage AI and Full-Stack expertise to solve complex problems and
 
 ---
 
-## 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=divysaxena24&show_icons=true&theme=tokyonight" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=divysaxena24&layout=compact&theme=tokyonight" height="170" />
-</p>
-
----
 
 ## 📊 GitHub Activity (Animated)
 
