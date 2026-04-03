@@ -117,12 +117,12 @@ My goal is to leverage AI and Full-Stack expertise to solve complex problems and
 ## 📈 GitHub Stats & Contribution Snake
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=divysaxena24&show_icons=true&theme=radical" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=divysaxena24&layout=compact&theme=radical" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api?username=divysaxena24&show_icons=true&theme=tokyonight" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=divysaxena24&layout=compact&theme=tokyonight" height="170" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/snake?username=divysaxena24&color_snake=white&color_dots=%23bfd6f6,%238dbdff,%2364a1f4,%234b91f1,%233c7dd9" alt="snake" />
+  <img src="https://raw.githubusercontent.com/divysaxena24/divysaxena24/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake" />
 </p>
 
 ---
