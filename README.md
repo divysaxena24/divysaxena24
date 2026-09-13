@@ -108,15 +108,7 @@ I’m an ambitious Computer Science undergraduate specializing in **scalable ful
 
 ---
 
-## 📊 GitHub Analytics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=divysaxena24&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="Divy Saxena's GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=divysaxena24&layout=compact&theme=radical&hide_border=true&langs_count=7" alt="Most Used Languages" />
-</p>
+## 📊 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=divysaxena24&theme=radical&hide_border=true" alt="GitHub Streak" />
