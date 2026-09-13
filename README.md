@@ -128,7 +128,7 @@ My goal is to leverage AI and Full-Stack expertise to solve complex problems and
 - 🏆 **Hacknovate 6.0 National Hackathon** - Ranked Top 45 among 180+ teams.
 - 💡 **Smart India Hackathon 2025** - Top 45 finalist out of 600+ teams.
 - 🚀 **Reckon 7.0 Hackathon** - Runner-Up in the Simpli AI track.
-- 👨‍💻 **LeetCode** - Solved 225+ problems covering DSA fundamentals. [(Profile)](https://leetcode.com/u/divya_2402/)
+- 👨‍💻 **LeetCode** - Solved 355+ problems covering DSA fundamentals. [(Profile)](https://leetcode.com/u/divya_2402/)
 
 <p align="center">
   <a href="https://leetcode.com/u/divya_2402/">
