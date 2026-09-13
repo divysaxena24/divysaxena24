@@ -115,14 +115,6 @@ My goal is to leverage AI and Full-Stack expertise to solve complex problems and
 ---
 
 
-## 📊 GitHub Activity (Animated)
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=divysaxena24&bg_color=0d1117&color=00C9FF&line=7F00FF&point=00C9FF&area=true&hide_border=true" />
-</p>
-
----
-
 ## 🏆 Honors & Awards
 
 - 🏆 **Hacknovate 6.0 National Hackathon** - Ranked Top 45 among 180+ teams.
