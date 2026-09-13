@@ -38,7 +38,10 @@
 
 ## 🚀 About Me
 
-🎓 **B.Tech CSE Student at SRM University AP (2024 - 2028)** | **CGPA: 9.4** 👨‍💻 **AI Automation & Web Development Intern at PIVOT** 🌐 **Campus Ambassador at Zuno Found It** 🧠 **Open Source Contributor at GSSoC & OSCI**
+🎓 **B.Tech CSE Student at SRM University AP (2024 - 2028)** | **CGPA: 9.4**  
+👨‍💻 **AI Automation & Web Development Intern at PIVOT**  
+🌐 **Campus Ambassador at Zuno Found It**  
+🧠 **Open Source Contributor at GSSoC & OSCI**
 
 I’m an ambitious Computer Science undergraduate specializing in **scalable full-stack architecture, backend performance, and applied AI systems**. I thrive at the intersection of robust system design and modern web development, building applications that handle real-world traffic and data complexity.
 
@@ -102,16 +105,24 @@ I’m an ambitious Computer Science undergraduate specializing in **scalable ful
 
 <p align="center">
   <a href="https://leetcode.com/u/divya_2402/">
-    <img src="https://leetcode-stats-six.vercel.app/api?username=divya_2402&theme=dark&hide_border=true&include_all_challenges=true" />
+    <img src="https://leetcode-stats-six.vercel.app/api?username=divya_2402&theme=radical&hide_border=true&include_all_challenges=true" />
   </a>
 </p>
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=divysaxena24&theme=radical&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=divysaxena24&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true&custom_title=Divy's%20GitHub%20Metrics" alt="Divy Saxena's GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=divysaxena24&layout=compact&theme=radical&hide_border=true&langs_count=7" alt="Most Used Languages" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=divysaxena24&theme=radical&hide_border=true&ring=00C9FF&fire=7F00FF&currStreakLabel=00C9FF" alt="GitHub Streak" />
 </p>
 
 ---
