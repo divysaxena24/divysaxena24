@@ -146,6 +146,22 @@ My goal is to leverage AI and Full-Stack expertise to solve complex problems and
 
 ---
 
+## GitHub Statistics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=divysaxena24&show_icons=true&theme=radical&hide_border=true" alt="Divy Saxena's GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=divysaxena24&layout=compact&theme=radical&hide_border=true" alt="Most Used Languages" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=divysaxena24&theme=radical&hide_border=true" alt="GitHub Streak" />
+</p>
+
+---
+
 ## 📌 Fun Facts
 
 - ☕ Tea keeps my code running
