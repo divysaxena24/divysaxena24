@@ -1,13 +1,15 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7F00FF,100:00C9FF&height=200&section=header&text=Divya%20Saxena&fontSize=50&fontAlignY=35&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7F00FF,100:00C9FF&height=220&section=header&text=Divya%20Saxena&fontSize=50&fontAlignY=35&animation=fadeIn&fontColor=ffffff" />
 </p>
 
 <h3 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=800&color=00C9FF&center=true&vCenter=true&width=700&lines=Second-Year+B.Tech+CSE+Student;Aspiring+Software+Developer;Full-Stack+Web+Developer;AI+%26+System+Design+Enthusiast;Open+Source+Contributor+%7C+GSSoC+%26+OSCI;Campus+Ambassador+at+Zuno+Found+It" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=800&color=00C9FF&center=true&vCenter=true&width=750&lines=Second-Year+B.Tech+CSE+Student;Full-Stack+%26+AI+Systems+Engineer;Backend+Architecture+Enthusiast;Open+Source+Contributor+%7C+GSSoC+%26+OSCI" />
 </h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=divysaxena24&label=Profile%20Views&color=00C9FF&style=flat" />
+  <img src="https://komarev.com/ghpvc/?username=divysaxena24&label=Profile%20Views&color=00C9FF&style=flat-square" />
+  <img src="https://img.shields.io/github/followers/divysaxena24?color=7F00FF&label=Followers&style=flat-square&logo=github" />
+  <img src="https://img.shields.io/badge/PRs-Welcome-brightgreen?style=flat-square&logo=git" />
 </p>
 
 ---
@@ -36,13 +38,9 @@
 
 ## 🚀 About Me
 
-🎓 **B.Tech CSE Student at SRM University AP (2024 - 2028)** | **CGPA: 9.4**  
-👨‍💻 **AI Automation & Web Development Intern at PIVOT**  
-🌐 **Campus Ambassador at Zuno Found It**  
-🧠 **Open Source Contributor at GSSoC & OSCI**
+🎓 **B.Tech CSE Student at SRM University AP (2024 - 2028)** | **CGPA: 9.4** 👨‍💻 **AI Automation & Web Development Intern at PIVOT** 🌐 **Campus Ambassador at Zuno Found It** 🧠 **Open Source Contributor at GSSoC & OSCI**
 
-I’m a focused Computer Science student building **real-world scalable applications** and strengthening my foundations in **DSA, System Design, and Backend Development**.  
-My goal is to leverage AI and Full-Stack expertise to solve complex problems and contribute to high-impact engineering teams.
+I’m an ambitious Computer Science undergraduate specializing in **scalable full-stack architecture, backend performance, and applied AI systems**. I thrive at the intersection of robust system design and modern web development, building applications that handle real-world traffic and data complexity.
 
 ---
 
@@ -52,92 +50,72 @@ My goal is to leverage AI and Full-Stack expertise to solve complex problems and
   <img src="https://skillicons.dev/icons?i=java,js,ts,python,html,css,tailwind,react,nextjs,nodejs,express,mongodb,postgres,mysql,aws,git,github,vercel,vscode&theme=dark" />
 </p>
 
-### 💻 Programming Languages
-**Java (DSA)**, **JavaScript**, **Python**, **HTML**, **CSS**
-
-### 📚 Libraries / Frameworks
-**Bootstrap**, **React**, **Node.js**, **Express.js**, **EJS**, **MERN Stack**, **Next.js**
-
-### 🛠️ Tools / Platforms
-**Git**, **VS Code**, **GitHub**, **Vercel**, **Render**
-
-### 🗄️ Databases
-**MySQL**, **MongoDB**, **Supabase (PostgreSQL)**
+| Category | Technologies |
+| :--- | :--- |
+| **Languages** | Java (DSA), JavaScript (ES6+), TypeScript, Python, HTML5, CSS3 |
+| **Frameworks & Libraries** | React.js, Next.js, Node.js, Express.js, Tailwind CSS, Bootstrap |
+| **Databases & ORMs** | PostgreSQL, Supabase, MongoDB, MySQL, Drizzle ORM |
+| **Tools & Infrastructure** | Git, GitHub, Vercel, Render, AWS, VS Code, Postman |
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/216656982-21bdf56f-7d91-4b39-97c4-bf9d6f64db84.gif" width="80" />
+  <img src="https://user-images.githubusercontent.com/74038190/216656982-21bdf56f-7d91-4b39-97c4-bf9d6f64db84.gif" width="70" />
 </p>
 
 ---
 
-## 🌱 Currently Learning
+## 🌱 Currently Exploring
 
-- 📊 **Advanced Data Structures & Algorithms (Java + Python)**  
-- 🗄️ **DBMS, Operating Systems, OOPS**  
-- 🌐 **Scalable Web Applications**  
-- 🤖 **Applied AI in Web Products**
+- 📊 **Advanced Distributed Systems & System Design Patterns**
+- ⚡ **High-Performance Asynchronous Microservices**
+- 🤖 **Production-Grade RAG Pipelines & LLM Orchestration**
 
 ---
 
 ## 🛠️ Featured Projects
 
-### 🚀 Mentorix - AI Career Growth Platform
-💡 Full-stack platform featuring resume analysis using Groq LPU, secure auth with Clerk, and async workflows with Inngest.
-
-**Tech:** Next.js, TypeScript, Neon PostgreSQL, Drizzle ORM, Clerk, Inngest, Groq LPU
-
----
-
-### 💰 Trackify - AI Price Monitoring System
-🚀 Automated price tracking and notification system with a Chrome Extension for one-click product tracking.
-
-**Tech:** Next.js, Firecrawl, Node.js, Web Scraping, Cron Jobs, Chrome APIs
-
----
-
-### 🛡️ HeartRoofers - Rental Marketplace
-🏠 Hostel discovery platform with advanced search, secure 15+ REST API endpoints, and Cloudinary integration.
-
-**Tech:** Node.js, Express.js, MongoDB, Cloudinary, Joi, Passport.js
+| Project | Description | Tech Stack |
+| :--- | :--- | :--- |
+| **🚀 Mentorix** | AI Career Growth Platform featuring deep resume analysis, secure authentication, and resilient async job workflows. | `Next.js` `TypeScript` `Neon PostgreSQL` `Drizzle ORM` `Clerk` `Inngest` `Groq LPU` |
+| **💰 Trackify** | Intelligent price-monitoring ecosystem equipped with automated web scraping agents and Chrome extension sync. | `Next.js` `Node.js` `Firecrawl` `Cron Jobs` `Chrome APIs` |
+| **🛡️ HeartRoofers** | Scalable rental marketplace featuring advanced property discovery, rigorous data validation, and asset storage. | `Node.js` `Express.js` `MongoDB` `Cloudinary` `Passport.js` |
 
 ---
 
 ## 🌍 Experience
 
-### 🤖 PIVOT — *AI Automation & Web Development Intern* (Feb 2026 - Present)
-- Developing scalable automation systems using JavaScript and REST APIs.
-- Optimized workflows reducing manual time by 40% through automation pipelines.
+### 🤖 PIVOT — *AI Automation & Web Development Intern* *(Feb 2026 - Present)*
+- Architecting scalable workflow automation systems utilizing JavaScript and high-throughput REST APIs.
+- Optimized internal operational workflows, engineering solutions that reduced manual processing time by **40%**.
 
 ### 🌐 GirlScript Summer of Code & OSCI — *Open Source Contributor*
-- Contributed to **5+ project repos** with **18+ merged PRs** out of 45+ submissions.
-- Improved features, performance, and overall code quality in distributed team environments.
+- Actively contributed code to **5+ collaborative open-source repositories**, securing **18+ merged pull requests** out of 45+ total submissions.
+- Enhanced core feature sets, reduced runtime bottlenecks, and maintained code standards in distributed developer teams.
 
 ---
 
+## 🏆 Honors & Achievements
 
-## 🏆 Honors & Awards
-
-- 🏆 **Hacknovate 6.0 National Hackathon** - Ranked Top 45 among 180+ teams.
-- 💡 **Smart India Hackathon 2025** - Top 45 finalist out of 600+ teams.
-- 🚀 **Reckon 7.0 Hackathon** - Runner-Up in the Simpli AI track.
-- 👨‍💻 **LeetCode** - Solved 355+ problems covering DSA fundamentals. [(Profile)](https://leetcode.com/u/divya_2402/)
+- 🏆 **Hacknovate 6.0 National Hackathon** — Ranked Top 45 among 180+ competing teams nationwide.
+- 💡 **Smart India Hackathon 2025** — Secured a position as a National Finalist among 600+ elite teams.
+- 🚀 **Reckon 7.0 Hackathon** — Awarded Runner-Up in the highly competitive *Simpli AI* track.
+- 👨‍💻 **LeetCode Milestones** — Solved **355+ algorithmic problems** emphasizing core data structures and dynamic programming. [(View Profile)](https://leetcode.com/u/divya_2402/)
 
 <p align="center">
   <a href="https://leetcode.com/u/divya_2402/">
-    <img src="https://leetcode-stats-six.vercel.app/api?username=divya_2402&theme=dark" />
+    <img src="https://leetcode-stats-six.vercel.app/api?username=divya_2402&theme=dark&hide_border=true&include_all_challenges=true" />
   </a>
 </p>
 
 ---
 
-## GitHub Statistics
+## 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=divysaxena24&show_icons=true&theme=radical&hide_border=true" alt="Divy Saxena's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=divysaxena24&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="Divy Saxena's GitHub Stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=divysaxena24&layout=compact&theme=radical&hide_border=true" alt="Most Used Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=divysaxena24&layout=compact&theme=radical&hide_border=true&langs_count=7" alt="Most Used Languages" />
 </p>
 
 <p align="center">
@@ -146,18 +124,11 @@ My goal is to leverage AI and Full-Stack expertise to solve complex problems and
 
 ---
 
-## 📌 Fun Facts
+## 📌 Beyond the Terminal
 
-- ☕ Tea keeps my code running
-- 🏸 I love badminton and table tennis
-- 🎤 Singing is my stress-buster
-
----
-
-## 📫 Let’s Connect
-
-- 💼 **LinkedIn:** [linkedin.com/in/divyasaxena24](https://www.linkedin.com/in/divyasaxena24)  
-- 📧 **Email:** divysaxena2402@gmail.com  
+- ☕ **Fuel:** Powered by endless cups of adrak chai.
+- 🏸 **Athletics:** Competitive badminton and table tennis player.
+- 🎤 **Creative Outlet:** Vocal music enthusiast for mental clarity and focus.
 
 ---
 
