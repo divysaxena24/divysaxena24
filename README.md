@@ -138,6 +138,22 @@ My goal is to leverage AI and Full-Stack expertise to solve complex problems and
 
 ---
 
+## GitHub Statistics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=KARAN-MANI-TRIPATHI&show_icons=true&theme=radical&hide_border=true" alt="Karan Mani Tripathi's GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KARAN-MANI-TRIPATHI&layout=compact&theme=radical&hide_border=true" alt="Most Used Languages" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=KARAN-MANI-TRIPATHI&theme=radical&hide_border=true" alt="GitHub Streak" />
+</p>
+
+---
+
 ## 📌 Fun Facts
 
 - ☕ Tea keeps my code running
