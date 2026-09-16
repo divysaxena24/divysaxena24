@@ -99,7 +99,7 @@ I’m an ambitious Computer Science undergraduate specializing in **scalable ful
 ## 🏆 Honors & Achievements
 
 - 🏆 **Hacknovate 6.0 National Hackathon** — Ranked Top 45 among 180+ competing teams nationwide.
-- 💡 **Smart India Hackathon 2025** — Secured a position as a National Finalist among 600+ elite teams.
+- 💡 **Smart India Hackathon 2025 and 2026** — Secured a position in top 45 teams out of 600+ elite teams.
 - 🚀 **Reckon 7.0 Hackathon** — Awarded Runner-Up in the highly competitive *Simpli AI* track.
 - 👨‍💻 **LeetCode Milestones** — Solved **355+ algorithmic problems** emphasizing core data structures and dynamic programming. [(View Profile)](https://leetcode.com/u/divya_2402/)
 
