@@ -38,7 +38,7 @@
 
 ## 🚀 About Me
 
-🎓 **B.Tech CSE Student at SRM University AP (2024 - 2028)** | **CGPA: 9.4**  
+🎓 **B.Tech CSE Student at SRM University AP (2024 - 2028)** | **CGPA: 9.25**  
 👨‍💻 **AI Automation & Web Development Intern at PIVOT**  
 🌐 **Campus Ambassador at Zuno Found It**  
 🧠 **Open Source Contributor at GSSoC & OSCI**
